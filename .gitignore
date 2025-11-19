@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+VENV/
+
+# Distribution/Deployment
+build/
+dist/
+*.spec
+
+# Logs and DB
+*.log
+*.sqlite
