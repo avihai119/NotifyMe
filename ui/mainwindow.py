@@ -3,7 +3,7 @@ import sys
 import random
 from PySide6 import QtCore, QtWidgets, QtGui
 
-class MainWindow (QtWidgets.QWidget):
+class MyWidget (QtWidgets.QWidget):
     def __init__(self):
         super().__init__()
 
